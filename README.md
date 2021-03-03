@@ -101,22 +101,6 @@ Remember: In templates, to render a variable's value, use the double brackets `{
 
 Don't forget to import the module `render_template` from Flask.
 
-**Checkpoint:**
-
-Your directory should now look like:
-
-```
-project
-│   
-│app.py
-│   
-│templates
-│   └─── index.html
-│   
-│static
-│   └───style.css
-```
-
 ------
 
 ## Problem 3: All I See is Static
